@@ -119,5 +119,5 @@ int main() {
   // Initializing Robot Configuration. DO NOT REMOVE!
   vexcodeInit();
   // Begin project code
-  leftMotors.spin(FORWARD)
+
 
